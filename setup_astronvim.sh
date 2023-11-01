@@ -28,7 +28,8 @@ apt-get install -y \
     python3 \
     libfuse2 \
     nodejs \
-    npm
+    npm \
+    xclip
 
 #apt install cargo
 #cargo install tree-sitter-cli
